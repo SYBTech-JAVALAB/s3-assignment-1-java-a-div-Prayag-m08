@@ -1,4 +1,4 @@
-package assignment1_26044;
+
 import java.util.Scanner;
 class Books {
     String title;
